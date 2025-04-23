@@ -3,5 +3,6 @@ b = "string"
 c = true
 
 fun = (num)=> {
-    console.log("function");
+    console.log("function2");
+    console.log("another one");
 }
