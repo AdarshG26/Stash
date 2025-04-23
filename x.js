@@ -2,6 +2,6 @@ a = 10
 b = "string"
 c = true
 
-fun = ()=> {
+fun = (num)=> {
     console.log("function");
 }
